@@ -4,6 +4,8 @@ Code Snippet
 
 # 目录
 - [java](https://github.com/gefangshuai/code_snippet/tree/master/java)
+ - [基本](https://github.com/gefangshuai/code_snippet/tree/master/java/基本)
+ - [JDBC](https://github.com/gefangshuai/code_snippet/tree/master/java/JDBC)
 - [jquery](https://github.com/gefangshuai/code_snippet/tree/master/jquery)
  - [jquery-validate](https://github.com/gefangshuai/code_snippet/tree/master/jquery/jquery-validate)
 
